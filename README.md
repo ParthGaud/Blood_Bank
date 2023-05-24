@@ -1,9 +1,10 @@
 # BLOOD BANK MANAGEMENT SYSTEM
 
 # Team Members :
-Dipansha Bordiya,
-Manisha Ahuja,
 Maharshi Parth Gaud
+Dipansha Bordiya,
+Manisha Ahuja
+
 
 # Mentors :
 Dr. Lalit Purohit, 
